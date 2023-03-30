@@ -1,4 +1,5 @@
 Hello world!
+
 This is my first day using text editor, GIT and GitHub.
 I am excited to learn more.
-Wish me success!
+Wish me lots of success!
